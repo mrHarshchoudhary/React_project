@@ -1,0 +1,13 @@
+.star-rating {
+  display: flex;
+  justify-content: center; /* Centers horizontally */
+  align-items: center; /* Centers vertically (if needed) */
+  gap: 5px; /* Adds spacing between stars */
+}
+
+.active{
+  color:#fff700;
+}
+.inactive{
+  color: black;
+}
